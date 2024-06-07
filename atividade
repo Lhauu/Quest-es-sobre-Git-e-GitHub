@@ -1,1 +1,20 @@
+1.Qual comando do Git é usado para verificar o status dos arquivos no repositório?
+b) git status
 
+2.Qual comando do Git é usado para criar uma nova branch?
+d) git checkout
+
+3.O que é um merge no contexto do Git?
+c) Uma operação para mesclar duas branches
+
+4.O que é um pull request?
+a) Uma solicitação para puxar alterações de um repositório remoto
+
+5.Qual é a diferença entre git pull e git fetch?
+b) git pull traz as alterações do repositório remoto e mescla automaticamente com a branch local, enquanto git fetch apenas traz as alterações do repositório remoto sem mesclar
+
+6.O que é um repositório remoto?
+c) Um repositório que está localizado em uma máquina diferente da sua
+
+7.Explique o conceito de branching e como isso é útil no desenvolvimento de software.
+É o ato criar ramificações do código principal para que possam modificar o código sem medo de errar e estragar o código principal. Também permite que varias pessoas possam trabalhar no mesmo lugar e depois mesclar os códigos.
